@@ -1,11 +1,9 @@
 /*
-
-Vector2.js
-A JavaScript library for point and 2D vector calculation
-By Harbor Young
-Email: szuyhb241@gmail.com
-
-*/
+ * Vector2.js - https://github.com/yhb241/Vector2.js
+ * A JavaScript library for point and 2D vector calculation.
+ * By Harbor Young
+ * Email: szuyhb241@gmail.com
+ */
 
 // a point with coordinate values
 function Point(x, y){
